@@ -1,4 +1,4 @@
-const MOVE_DELAY_MS = 20;
+const MOVE_DELAY_MS = 2000;
 
 export class MazeAnimator {
   constructor(renderer) {
